@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "67d0d6fb4e7d4ba427d1",
+    "revision": "e75d401bb528a3e478a9",
     "url": "/shopping-cart-vconsoles/static/css/main.9b8ed365.chunk.css"
   },
   {
-    "revision": "67d0d6fb4e7d4ba427d1",
-    "url": "/shopping-cart-vconsoles/static/js/main.1e7ea11f.chunk.js"
+    "revision": "e75d401bb528a3e478a9",
+    "url": "/shopping-cart-vconsoles/static/js/main.f1cb2c51.chunk.js"
   },
   {
     "revision": "b3581c87de05b95a29ba",
@@ -28,19 +28,19 @@ self.__precacheManifest = [
     "url": "/shopping-cart-vconsoles/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/shopping-cart-vconsoles/static/media/fontawesome-webfont.674f50d2.eot"
-  },
-  {
     "revision": "b06871f281fee6b241d60582ae9369b9",
     "url": "/shopping-cart-vconsoles/static/media/fontawesome-webfont.b06871f2.ttf"
+  },
+  {
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/shopping-cart-vconsoles/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/shopping-cart-vconsoles/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "efae6ab0992e07e924863f9c4c5d23b1",
+    "revision": "d9c7ea6dac187d3d44d6ede9a52b6013",
     "url": "/shopping-cart-vconsoles/index.html"
   }
 ];
