@@ -4,12 +4,12 @@
   "private": true,
   "dependencies": {
     "font-awesome": "^4.7.0",
-    "gh-pages": "^2.1.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "gh-pages": "2.0.1"
   },
-  "homepage": "http://franlol.github.io/shopping-cart-vconsoles",
+  "homepage": "https://franlol.github.io/shopping-cart-vconsoles/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
