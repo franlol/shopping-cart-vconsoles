@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2465d20a0388a643cd1d",
+    "revision": "67d0d6fb4e7d4ba427d1",
     "url": "/shopping-cart-vconsoles/static/css/main.9b8ed365.chunk.css"
   },
   {
-    "revision": "2465d20a0388a643cd1d",
-    "url": "/shopping-cart-vconsoles/static/js/main.1bdb75cb.chunk.js"
+    "revision": "67d0d6fb4e7d4ba427d1",
+    "url": "/shopping-cart-vconsoles/static/js/main.1e7ea11f.chunk.js"
   },
   {
     "revision": "b3581c87de05b95a29ba",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/shopping-cart-vconsoles/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "64640cc8772e23d8756a4b8e1cc77597",
+    "revision": "efae6ab0992e07e924863f9c4c5d23b1",
     "url": "/shopping-cart-vconsoles/index.html"
   }
 ];
