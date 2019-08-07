@@ -13,7 +13,7 @@ const App = () => {
 	const [products] = useContext(ProductContext);
 	const { total } = products;
 
-	const showProducts = () => products.items.map((item, key) => <ShopItem key={`item.name-${key}`} img={`${window.location.origin}/img/${item.img}`} price={item.price} name={item.name} qty={item.qty} id={item.id} />);
+	const showProducts = () => products.items.map((item, key) => <ShopItem key={`item.name-${key}`} img={`${window.location.origin}${window.location.pathname}img/${item.img}`} price={item.price} name={item.name} qty={item.qty} id={item.id} />);
 
 	return (
 		<div className="App">
